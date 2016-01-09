@@ -1,5 +1,5 @@
-# UAV_GPS_Code2
-Code for the UAV GPS section
+# UAV_GPS_Code
+Code for the UAV Navigation
 
 This code will use the TinyGPS++ library to pull data over a 9600 baud serial line from a GPS module (we are using uBlox Neo-6) and display it on an ILI9341 colour LCD display.
 
