@@ -1,7 +1,15 @@
-# UAV_GPS_Code
-Code for the UAV Navigation
+# UAV Avionics
 
-This code will use the TinyGPS++ library to pull data over a 9600 baud serial line from a GPS module (we are using uBlox Neo-6) and display it on an ILI9341 colour LCD display.
+Code for the UAV Avionics
 
-Data is also sent over the serial line to be displayed on the Serial Monitor window for debugging purposes.
+To include:
 
+Navigation
+Stabilisation
+Altitude Control
+Telemetry
+Manual Control
+Aerial Photography
+FPV Stream
+Camera Gimbal Control
+Emergency Beacon
