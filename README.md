@@ -13,6 +13,7 @@ Aerial Photography.
 FPV Stream.
 Camera Gimbal Control.
 Emergency Beacon.
+Data Logging. 
 
 Any required libraries can be found in the Libraries repository.
 
