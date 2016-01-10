@@ -1,3 +1,5 @@
+// Basic code for testing out a serial GPS device on a Teensy 3.*
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 /*
