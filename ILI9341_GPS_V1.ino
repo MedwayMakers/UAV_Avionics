@@ -1,3 +1,5 @@
+// This code will take the serial NMEA data from a GPS device and display it on a colour ILI9341 LCD display.
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 #include "SPI.h"
