@@ -14,6 +14,7 @@ FPV Stream.
 Camera Gimbal Control.
 Emergency Beacon.
 Data Logging. 
+WiFi Config Link.
 
 Any required libraries can be found in the Libraries repository.
 
