@@ -4,7 +4,7 @@ Code for the UAV Avionics
 
 To include:
 
-Navigation.
+Navigation. 
 Stabilisation.
 Altitude Control.
 Telemetry.
